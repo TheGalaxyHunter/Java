@@ -1,0 +1,2 @@
+1bm19is025,Database Management System,44,Java Programming,66,Theoretical Foundations Of Computations,77,Analysis And Design Of Algorithms,55,UNIX System Programming,88,
+1bm19is026,Database Management System,88,Java Programming,78,Theoretical Foundations Of Computations,77,Analysis And Design Of Algorithms,99,UNIX System Programming,88,

@@ -1,0 +1,16 @@
+ise,1,Engineering Mathematics – 1,Applied Physics,Elements of Electronics Engineering,Elements of Electronics Engineering,C Programming
+ise,2,Engineering Mathematics – 2,Engineering Chemistry,Elements of Electrical Engineering,Engineering Mechanics,Elements of Engineering Drawing
+ise,3,Operating System,Data Structures with C,Object Oriented Programming using C++,Data Structures,Computer Organization and Architecture
+ise,4,Database Management System,Java Programming,Theoretical Foundations Of Computations,Analysis And Design Of Algorithms,UNIX System Programming
+ise,5,Machine Learning,Cloud Computing,Mobile Application Development,Internet of Things,Data Mining,Artificial Intelligence
+ise,6,Software Testing,Big Data Analytics,Deep Learning,Multi-disciplinary Project,Pattern Recognition
+ise,7,DevOps,Virtual Reality,Machine Learning,Data Visualization,Blockchain Technology
+ise,8,Green Computing,Big Data Analytics,Web Technologies,Blockchain Technology,Cryptography and Network Security
+cse,1,Engineering Mathematics – 1,Applied Physics,Elements of Electronics Engineering,Elements of Electronics Engineering,C Programming
+cse,2,Engineering Mathematics – 2,Engineering Chemistry,Elements of Electrical Engineering,Engineering Mechanics,Elements of Engineering Drawing
+cse,3,Microprocessors and Microcontrollers,Object Oriented Java Programming,Data Structures,Computer Organization and Architecture,Logic Design
+cse,4,Theoretical Foundations of Computations,Database Management System,Analysis and Design of Algorithms,Operating Systems,Java Programming Language
+cse,5,Artificial Intelligence,Computer Networks,Unix Shell,Advanced Algorithm, Compiler Design
+cse,6,Machine Learning,Cryptography and Network Security,Natural Language Processing,Management and Entrepreneurship,Big Data Analytics
+cse,7,NoSQL Database,Biology for Engineers,Blockchain,Multimedia Computing,Cloud Computing
+cse,8,Green Computing,Cloud Computing,Big Data Analytics,Blockchain Technology,Internet of Things

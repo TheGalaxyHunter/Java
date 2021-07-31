@@ -1,0 +1,9 @@
+1bm19is001,Nidhi Uday,ise,4,99,T001
+1bm19is021,anagha,cse,7,56,4
+1bm19is031,gnanesh,ise,6,88,T001
+1bm19is041,chirag,cse,4,88,3
+1bm19is051,rahul,cse,9,88,T001
+1BM19IS025,Ankit Das,ISE,5,110,T001
+1bm19is001,Nidhi Uday,ise,4,99,T001
+1bm19is032,Nidhi Uday,ise,4,99,T001
+1bm19is001,Alpah,ise,4,99,T001
